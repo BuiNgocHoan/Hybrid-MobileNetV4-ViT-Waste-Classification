@@ -2,7 +2,7 @@
 # Lightweight Hybrid MobileNetV4-Transformer for Edge AI Waste Classification
 
 ## Project Overview
-Automated waste sorting is a cornerstone of sustainable smart city management[cite: 220]. [cite_start]This project introduces a Hybrid architecture that bridges the gap between Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs)[cite: 221, 222, 223]. [cite_start]By combining the speed of MobileNetV4 with the global context awareness of a Transformer bridge, we optimized the trade-off between inference speed and accuracy for deployment on edge devices.
+Automated waste sorting is a cornerstone of sustainable smart city managementThis project introduces a Hybrid architecture that bridges the gap between Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs). By combining the speed of MobileNetV4 with the global context awareness of a Transformer bridge, we optimized the trade-off between inference speed and accuracy for deployment on edge devices.
 
 ## Dataset
 - **Name:** TrashBox Dataset.
